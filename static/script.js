@@ -11,5 +11,28 @@ button.addEventListener("click", function(){
     message.classList.add("user-message");
     message.textContent = question;
     chatBox.appendChild(message);
-    input.value = "";
+    
+ let answer="";
+
+ if(question.toLowerCase().includes("hello")){
+    answer="Hello! How can I help you?";
+ }
+ else if(question.toLowerCase().includes("course")){
+    answer="Our college offers various B.Tech courses.";
+ }
+ else if(question.toLowerCase().includes("library")){
+    answer="Yes, Our college has a library.";
+ }
+ else if(question.toLowerCase().includes("fees")){
+    answer="Contact the college office.";
+ }
+ else {
+    answer="Sorry,I don't understand your question yet.";
+ }
+
+ const botMessage = document.createElement("div");
+ botMessage.classList.add("bot-message");
+ botMessage.textContent = answer;
+ chatBox.appendChild(botMessage);
+ input.value = "";
 });
