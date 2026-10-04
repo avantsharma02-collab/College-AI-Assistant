@@ -5,7 +5,7 @@ const chatBox = document.querySelector(".chat-box");
 button.addEventListener("click", function(){
     const question = input.value ;
     if (question.trim()===""){
-        return;
+        return 0;
     }
     const message =document.createElement("div");
     message.classList.add("user-message");
