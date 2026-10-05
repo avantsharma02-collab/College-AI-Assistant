@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What courses are available?",
+        "answer": "Our college offers various B.Tech courses."
+    },
+    {
+        "question": "What is the fee?",
+        "answer": "Please contact the college office for the latest fee details."
+    },
+    {
+        "question": "How can I take admission?",
+        "answer": "Admissions are conducted according to the college admission process."
+    },
+    {
+        "question": "Is there a library?",
+        "answer": "Yes, our college has a library with books and study resources."
+    },
+    {
+        "question": "What are the college timings?",
+        "answer": "The college timings are from 9 AM to 4 PM."
+    }
+]
