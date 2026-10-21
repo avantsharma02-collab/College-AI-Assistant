@@ -1,22 +1,63 @@
 [
     {
-        "question": "What courses are available?",
+        "question": "course",
         "answer": "Our college offers various B.Tech courses."
     },
     {
-        "question": "What is the fee?",
+        "question": "fee",
         "answer": "Please contact the college office for the latest fee details."
     },
     {
-        "question": "How can I take admission?",
+        "question": "admission",
         "answer": "Admissions are conducted according to the college admission process."
     },
     {
-        "question": "Is there a library?",
+        "question": "library",
         "answer": "Yes, our college has a library with books and study resources."
     },
     {
-        "question": "What are the college timings?",
+        "question": "timing",
         "answer": "The college timings are from 9 AM to 4 PM."
+    },
+    {
+        "question": "hostel",
+        "answer": "Yes, hostel facilities are available for students."
+    },
+    {
+        "question": "location",
+        "answer": "The college is located on the main campus."
+    },
+    {
+        "question": "contact",
+        "answer": "Please contact the college office for contact details."
+    },
+    {
+        "question": "exam",
+        "answer":"Examinations are conducted according to the academic schedule."
+    },
+    {
+        "question": "holiday",
+        "answer": "College holidays are listed in the academic calendar."
+    },
+    {
+        "question": "canteen",
+        "answer": "Yes, the college has a canteen for students and staff."
+    },
+    {
+        "question": "sports",
+        "answer": "The college provides sports facilities for students."
+    },
+    {
+        "question": "department",
+        "answer": "The college has multiple academic departments."
+    },
+    {
+        "question": "faculty",
+        "answer": "The college has faculty members for different academic departments."
+    },
+    {
+        "question": "transport",
+        "answer": "Please contact the college office for information about transport facilities."
     }
+
 ]
